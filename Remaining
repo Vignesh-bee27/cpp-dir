@@ -1,0 +1,4 @@
+C=int(input())
+N=int(input())
+R = C%N
+print(R)
