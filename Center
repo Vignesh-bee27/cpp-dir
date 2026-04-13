@@ -1,0 +1,6 @@
+M=int(input())
+N=int(input())
+L=int(input())
+center_x = M+(L//2)
+center_y = N+(L//2)
+print(f"The centre of the room is at ({center_x},{center_y})")
